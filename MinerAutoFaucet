@@ -1,21 +1,19 @@
-Miner Token AuToFaucet:
 
-IP/Port:
+I- Hướng dẫn đào Token AuToFaucet trên trang autofaucet.org:
 
-168.235.86.33:3393
+1- Đối với phần mềm M2G Miner Android:
 
-Username:
+1.1: bản tải nó xuống từ thư mục này : https://github.com/ThienThanh217/tokenautofaucet/
+1.2: cài đặt vào máy điện thoại, điên thoại sẽ đưa ra cảnh báo phần mềm độc hại, bạn chấp thuận và nhần tiếp tục cài vào máy.
+1.3: Thiết lập cấu hình đào:
+Mở M2G Miner Android lên và thiết lập thông số như sau:
++ IP/Port: 168.235.86.33:3393
++ Username: SK_QzApkbVGsAxyQykaWSnEF.Thanhcoincrypto
++ Password: x
++ Currency: Monero
++ Algo: " cn/1 " hoặc " cn/ccx " (Cryptonight Conceal)
++ Ghi chú : Số lượng CPU tham gia tùy vào bạn chọn sao cho phù hợp với tứng máy để đạt được hiệu quả đào cao nhất có thể.
 
-SK_QzApkbVGsAxyQykaWSnEF.Thanhcoincrypto
+2- Đối với phần mềm UserLand:
+Bạn cần cài đặt 2 ứng dụng cho điện thoại là UserLand và tool đào Xmrig cho android như sau:
 
-Password:
-
-x
-
-Currency:
-
-Monero
-
-Algo:
-
-Cryptonight Conceal (cn/ccx)
